@@ -11,5 +11,11 @@
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/ID3Tag.png",
     "version": "1.2.0",
     "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/ID3Tag-ext.dnbundle"
+  },{
+    "name": "DiscordRPC",
+    "author": "silentrs",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/discord-rpc.png",
+    "version": "1.0.1",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/DiscordRPC.dnbundle"
   }
 ]
