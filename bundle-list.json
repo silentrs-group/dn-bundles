@@ -5,17 +5,147 @@
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/KDiscord.png",
     "version": "1.0.1",
     "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/KDiscord.dnbundle"
-  },{
+  },
+  {
     "name": "ID3Tag",
     "author": "silentrs",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/ID3Tag.png",
     "version": "0.1.2",
     "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/ID3Tag-ext.dnbundle"
-  },{
+  },
+  {
     "name": "DiscordRPC",
     "author": "silentrs",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/discord-rpc.png",
     "version": "1.0.1",
     "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/DiscordRPC.dnbundle"
+  },
+  {
+    "name": "AnimateFX",
+    "description": "Пакет добавляет анимации для GUI компонентов",
+    "author": "broelik",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/AnimateFX.png",
+    "version": "1.0.1",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/AnimateFX.dnbundle"
+  },
+  {
+    "name": "AudioBundle",
+    "description": "Пакет для работы со звуком",
+    "author": "MWGuy",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/AudioBundle.png",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-voice-recorder-ext-1.0.0.dnbundle"
+  },
+  {
+    "name": "ChartsBundle",
+    "description": "Пакет для работы с графиками",
+    "author": "broelik",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/ChartsBundle.png",
+    "version": "1.1.0",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-charts-ext-1.0.3.dnbundle"
+  },
+  {
+    "name": "DFFI",
+    "description": "DevelNext Foreign Function Interface",
+    "author": "HackMemory",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/DFFI.png",
+    "version": "1.0.1",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-dffi-ext-1.0.1.dnbundle"
+  },
+  {
+    "name": "ext4jphp-windows",
+    "description": "Extender for JPHP-Windows",
+    "author": "Rebzzel",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/ext4jphp-windows.png",
+    "version": "1.5.080518",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/ext4jphp-windows.dnbundle"
+  },
+  {
+    "name": "Jediterm",
+    "description": "Продвинутый эмулятор терминала с поддержкой SSH",
+    "author": "MWGuy",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/Jediterm.png",
+    "version": "1.3.0",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jediterm-1.3.0.dnbundle"
+  },
+  {
+    "name": "jURL",
+    "description": "Пакет расширений для работы с сетью с поддержкой cURL функций",
+    "author": "Ts.Saltan",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jURL.png",
+    "version": "2.0.0.9-dev",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jurl.dnbundle"
+  },
+  {
+    "name": "NativeHook",
+    "description": "Расширение для обработки глобального пользовательского ввода",
+    "author": "broelik",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/NativeHook.png",
+    "version": "1.1.0",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/nativehook-2.0.0.dnbundle"
+  },
+  {
+    "name": "Preg",
+    "description": "Пакет расширений для поддержки preg_* функций",
+    "author": "Ts.Saltan",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/Preg.png",
+    "version": "0.2",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/preg-bundle.dnbundle"
+  },
+  {
+    "name": "RichTextFX",
+    "description": "RichTextFX for DevelNext",
+    "author": "mwguy",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/RichTextFX.png",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-richtextfx-ext-1.2.1.dnbundle"
+  },
+  {
+    "name": "Size Real Time",
+    "description": "Изменение размеров в реальном времени",
+    "author": "brend",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/Size_Real_Time.png",
+    "version": "0.5",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/sizerealtime.dnbundle"
+  },
+  {
+    "name": "Torrent",
+    "description": "",
+    "author": "MWGuy",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/Torrent.png",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/torrent.dnbundle"
+  },
+  {
+    "name": "UDPSocket",
+    "description": "Пакет для работы с UDP сокетами",
+    "author": "broelik",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/UDPSocket.png",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-udpsocket-ext-1.0.2.dnbundle"
+  },
+  {
+    "name": "Webcam",
+    "description": "Пакет для работы с веб-камерой",
+    "author": "broelik",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/Webcam.png",
+    "version": "1.0.2",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-webcam-ext-1.0.3.dnbundle"
+  },
+  {
+    "name": "WebSocket Client",
+    "description": "Пакет для работы с WebSocket",
+    "author": "broelik",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/WebSocket_Client.png",
+    "version": "1.1.6",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-websocket-client-1.1.5.dnbundle"
+  },
+  {
+    "name": "windows",
+    "description": "Плагин для взаимодействия с API Windows",
+    "author": "Ts.Saltan",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/windows.png",
+    "version": "2.2",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/windows-2.2.dnbundle"
   }
 ]
