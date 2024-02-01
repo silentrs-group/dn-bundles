@@ -29,7 +29,7 @@
     "author": "broelik",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/AnimateFX.png",
     "version": "1.0.1",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/AnimateFX.dnbundle"
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/AnimateFX.dnbundle"
   },
   {
     "name": "AudioBundle",
@@ -37,7 +37,7 @@
     "author": "MWGuy",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/AudioBundle.png",
     "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-voice-recorder-ext-1.0.0.dnbundle"
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/jphp-voice-recorder-ext-1.0.0.dnbundle"
   },
   {
     "name": "ChartsBundle",
@@ -45,7 +45,7 @@
     "author": "broelik",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/ChartsBundle.png",
     "version": "1.1.0",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-charts-ext-1.0.3.dnbundle"
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/jphp-charts-ext-1.0.3.dnbundle"
   },
   {
     "name": "DFFI",
@@ -53,7 +53,7 @@
     "author": "HackMemory",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/DFFI.png",
     "version": "1.0.1",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-dffi-ext-1.0.1.dnbundle"
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/jphp-dffi-ext-1.0.1.dnbundle"
   },
   {
     "name": "ext4jphp-windows",
@@ -61,7 +61,7 @@
     "author": "Rebzzel",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/ext4jphp-windows.png",
     "version": "1.5.080518",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/ext4jphp-windows.dnbundle"
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/ext4jphp-windows.dnbundle"
   },
   {
     "name": "Jediterm",
@@ -69,7 +69,7 @@
     "author": "MWGuy",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/Jediterm.png",
     "version": "1.3.0",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jediterm-1.3.0.dnbundle"
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/jediterm-1.3.0.dnbundle"
   },
   {
     "name": "jURL",
@@ -77,7 +77,7 @@
     "author": "Ts.Saltan",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jURL.png",
     "version": "2.0.0.9-dev",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jurl.dnbundle"
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/jurl.dnbundle"
   },
   {
     "name": "NativeHook",
@@ -85,7 +85,7 @@
     "author": "broelik",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/NativeHook.png",
     "version": "1.1.0",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/nativehook-2.0.0.dnbundle"
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/nativehook-2.0.0.dnbundle"
   },
   {
     "name": "Preg",
