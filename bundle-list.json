@@ -9,24 +9,24 @@
   },
   {
     "name": "KDiscord",
-    "author": "silentrs",
     "description": "Пакет для работы с DiscordRPC (новый)",
+    "author": "silentrs",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/KDiscord.png",
     "version": "1.0.1",
     "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/KDiscord.dnbundle"
   },
   {
     "name": "ID3Tag",
-    "author": "silentrs",
     "description": "Пакет для работы с MP3 тегами",
+    "author": "silentrs",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/ID3Tag.png",
     "version": "0.1.2",
     "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/ID3Tag-ext.dnbundle"
   },
   {
     "name": "DiscordRPC",
-    "author": "silentrs",
     "description": "Пакет для работы с DiscordRPC",
+    "author": "silentrs",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/discord-rpc.png",
     "version": "1.0.1",
     "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/DiscordRPC.dnbundle"
@@ -89,7 +89,7 @@
   },
   {
     "name": "NativeHook",
-    "description": "Расширение для обработки глобального пользовательского ввода",
+    "description": "Пакет для обработки глобального пользовательского ввода",
     "author": "broelik",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/NativeHook.png",
     "version": "1.1.0",
@@ -113,7 +113,7 @@
   },
   {
     "name": "Size Real Time",
-    "description": "Изменение размеров в реальном времени",
+    "description": "Пакет для изменение размеров объектов в реальном времени",
     "author": "brend",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/Size_Real_Time.png",
     "version": "0.5",
@@ -153,10 +153,18 @@
   },
   {
     "name": "windows",
-    "description": "Плагин для взаимодействия с API Windows",
+    "description": "Пакет для взаимодействия с API Windows",
     "author": "Ts.Saltan",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/windows.png",
     "version": "2.2",
     "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/windows-2.2.dnbundle"
+  },
+  {
+    "name": "Yandex Disc",
+    "description": "Пакет для работы с Yandex Disk API",
+    "author": "silentrs",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-yandex-disc.png",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/jphp-yandex-disc-1.0.0.dnbundle"
   }
 ]
