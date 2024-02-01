@@ -93,7 +93,7 @@
     "author": "Ts.Saltan",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/Preg.png",
     "version": "0.2",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/preg-bundle.dnbundle"
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/preg-bundle.dnbundle"
   },
   {
     "name": "RichTextFX",
@@ -101,7 +101,7 @@
     "author": "mwguy",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/RichTextFX.png",
     "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-richtextfx-ext-1.2.1.dnbundle"
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/jphp-richtextfx-ext-1.2.1.dnbundle"
   },
   {
     "name": "Size Real Time",
@@ -109,7 +109,7 @@
     "author": "brend",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/Size_Real_Time.png",
     "version": "0.5",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/sizerealtime.dnbundle"
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/sizerealtime.dnbundle"
   },
   {
     "name": "Torrent",
@@ -117,7 +117,7 @@
     "author": "MWGuy",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/Torrent.png",
     "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/torrent.dnbundle"
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/torrent.dnbundle"
   },
   {
     "name": "UDPSocket",
@@ -125,7 +125,7 @@
     "author": "broelik",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/UDPSocket.png",
     "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-udpsocket-ext-1.0.2.dnbundle"
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/jphp-udpsocket-ext-1.0.2.dnbundle"
   },
   {
     "name": "Webcam",
@@ -133,7 +133,7 @@
     "author": "broelik",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/Webcam.png",
     "version": "1.0.2",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-webcam-ext-1.0.3.dnbundle"
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/jphp-webcam-ext-1.0.3.dnbundle"
   },
   {
     "name": "WebSocket Client",
@@ -141,7 +141,7 @@
     "author": "broelik",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/WebSocket_Client.png",
     "version": "1.1.6",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-websocket-client-1.1.5.dnbundle"
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/jphp-websocket-client-1.1.5.dnbundle"
   },
   {
     "name": "windows",
@@ -149,6 +149,6 @@
     "author": "Ts.Saltan",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/windows.png",
     "version": "2.2",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/windows-2.2.dnbundle"
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/windows-2.2.dnbundle"
   }
 ]
