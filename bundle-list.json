@@ -1,5 +1,13 @@
 [
   {
+    "name": "Bundle Manager",
+    "description": "Плагин добавляющий менеджер пакетов",
+    "author": "silentrs",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/Bundle_Manager.png",
+    "version": "2.2",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/Bundle_Manager-1.0.0.dnbundle"
+  },
+  {
     "name": "KDiscord",
     "author": "silentrs",
     "description": "Пакет для работы с DiscordRPC (новый)",
