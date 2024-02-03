@@ -4,8 +4,8 @@
     "description": "Плагин добавляющий менеджер пакетов",
     "author": "silentrs",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/Bundle_Manager.png",
-    "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/Bundle_Manager-1.0.0.dnbundle"
+    "version": "1.0.1",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/Bundle_Manager-1.0.1.dnbundle"
   },
   {
     "name": "KDiscord",
