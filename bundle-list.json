@@ -65,7 +65,7 @@
   },
   {
     "name": "ext4jphp-windows",
-    "description": "Extender for JPHP-Windows",
+    "description": "Пакет для работы с кастомными формами",
     "author": "Rebzzel",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/ext4jphp-windows.png",
     "version": "1.5.080518",
