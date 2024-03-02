@@ -6,7 +6,7 @@
       "author": "silentrs",
       "image": "Bundle_Manager.png",
       "version": "1.0.4",
-      "url": "Bundle_Manager-1.0.4.dnbundle"
+      "url": "bundles/Bundle_Manager-1.0.4.dnbundle"
     },
     {
       "name": "KDiscord",
@@ -14,7 +14,7 @@
       "author": "silentrs",
       "image": "KDiscord.png",
       "version": "1.0.1",
-      "url": "KDiscord.dnbundle"
+      "url": "bundles/KDiscord.dnbundle"
     },
     {
       "name": "ID3Tag",
@@ -23,7 +23,7 @@
       "image": "ID3Tag.png",
       "version": "0.1.2",
       "exampleUrl": "https://github.com/silentdeath76/jphp-id3tag-ext?tab=readme-ov-file#jphp-id3tag-ext",
-      "url": "ID3Tag-ext.dnbundle"
+      "url": "bundles/ID3Tag-ext.dnbundle"
     },
     {
       "name": "DiscordRPC",
@@ -31,7 +31,7 @@
       "author": "silentrs",
       "image": "discord-rpc.png",
       "version": "1.0.1",
-      "url": "DiscordRPC.dnbundle"
+      "url": "bundles/DiscordRPC.dnbundle"
     },
     {
       "name": "AnimateFX",
@@ -39,7 +39,7 @@
       "author": "broelik",
       "image": "AnimateFX.png",
       "version": "1.0.1",
-      "url": "AnimateFX.dnbundle"
+      "url": "bundles/AnimateFX.dnbundle"
     },
     {
       "name": "AudioBundle",
@@ -47,7 +47,7 @@
       "author": "MWGuy",
       "image": "AudioBundle.png",
       "version": "1.0.0",
-      "url": "jphp-voice-recorder-ext-1.0.0.dnbundle"
+      "url": "bundles/jphp-voice-recorder-ext-1.0.0.dnbundle"
     },
     {
       "name": "ChartsBundle",
@@ -55,7 +55,7 @@
       "author": "broelik",
       "image": "ChartsBundle.png",
       "version": "1.1.0",
-      "url": "jphp-charts-ext-1.0.3.dnbundle"
+      "url": "bundles/jphp-charts-ext-1.0.3.dnbundle"
     },
     {
       "name": "DFFI",
@@ -63,7 +63,7 @@
       "author": "HackMemory",
       "image": "DFFI.png",
       "version": "1.0.1",
-      "url": "jphp-dffi-ext-1.0.1.dnbundle"
+      "url": "bundles/jphp-dffi-ext-1.0.1.dnbundle"
     },
     {
       "name": "ext4jphp-windows",
@@ -71,7 +71,7 @@
       "author": "Rebzzel",
       "image": "ext4jphp-windows.png",
       "version": "1.5.080518",
-      "url": "ext4jphp-windows.dnbundle"
+      "url": "bundles/ext4jphp-windows.dnbundle"
     },
     {
       "name": "Jediterm",
@@ -79,7 +79,7 @@
       "author": "MWGuy",
       "image": "Jediterm.png",
       "version": "1.3.0",
-      "url": "jediterm-1.3.0.dnbundle"
+      "url": "bundles/jediterm-1.3.0.dnbundle"
     },
     {
       "name": "jURL",
@@ -87,7 +87,7 @@
       "author": "Ts.Saltan",
       "image": "jURL.png",
       "version": "2.0.0.9-dev",
-      "url": "jurl.dnbundle"
+      "url": "bundles/jurl.dnbundle"
     },
     {
       "name": "NativeHook",
@@ -95,7 +95,7 @@
       "author": "broelik",
       "image": "NativeHook.png",
       "version": "1.1.0",
-      "url": "nativehook-2.0.0.dnbundle"
+      "url": "bundles/nativehook-2.0.0.dnbundle"
     },
     {
       "name": "Preg",
@@ -103,7 +103,7 @@
       "author": "Ts.Saltan",
       "image": "Preg.png",
       "version": "0.2",
-      "url": "preg-bundle.dnbundle"
+      "url": "bundles/preg-bundle.dnbundle"
     },
     {
       "name": "RichTextFX",
@@ -111,7 +111,7 @@
       "author": "mwguy",
       "image": "RichTextFX.png",
       "version": "1.0.0",
-      "url": "jphp-richtextfx-ext-1.2.1.dnbundle"
+      "url": "bundles/jphp-richtextfx-ext-1.2.1.dnbundle"
     },
     {
       "name": "Size Real Time",
@@ -119,7 +119,7 @@
       "author": "brend",
       "image": "Size_Real_Time.png",
       "version": "0.5",
-      "url": "sizerealtime.dnbundle"
+      "url": "bundles/sizerealtime.dnbundle"
     },
     {
       "name": "Torrent",
@@ -127,7 +127,7 @@
       "author": "MWGuy",
       "image": "Torrent.png",
       "version": "1.0.0",
-      "url": "torrent.dnbundle"
+      "url": "bundles/torrent.dnbundle"
     },
     {
       "name": "UDPSocket",
@@ -135,7 +135,7 @@
       "author": "broelik",
       "image": "UDPSocket.png",
       "version": "1.0.0",
-      "url": "jphp-udpsocket-ext-1.0.2.dnbundle"
+      "url": "bundles/jphp-udpsocket-ext-1.0.2.dnbundle"
     },
     {
       "name": "Webcam",
@@ -143,7 +143,7 @@
       "author": "broelik",
       "image": "Webcam.png",
       "version": "1.0.2",
-      "url": "jphp-webcam-ext-1.0.3.dnbundle"
+      "url": "bundles/jphp-webcam-ext-1.0.3.dnbundle"
     },
     {
       "name": "WebSocket Client",
@@ -151,7 +151,7 @@
       "author": "broelik",
       "image": "WebSocket_Client.png",
       "version": "1.1.6",
-      "url": "jphp-websocket-client-1.1.5.dnbundle"
+      "url": "bundles/jphp-websocket-client-1.1.5.dnbundle"
     },
     {
       "name": "windows",
@@ -159,7 +159,7 @@
       "author": "Ts.Saltan",
       "image": "windows.png",
       "version": "2.2",
-      "url": "windows-2.2.dnbundle"
+      "url": "bundles/windows-2.2.dnbundle"
     },
     {
       "name": "Yandex Disc",
@@ -167,19 +167,19 @@
       "author": "silentrs",
       "image": "jphp-yandex-disc.png",
       "version": "1.0.0",
-      "url": "jphp-yandex-disc-1.0.0.dnbundle"
+      "url": "bundles/jphp-yandex-disc-1.0.0.dnbundle"
     }
   ],
   "fonts": [
     {
       "name": "Test font",
-      "url": ""
+      "url": "fonts/test.zip"
     }
   ],
   "icons": [
     {
       "name": "Test icon",
-      "url": ""
+      "url": "icons/test.psng"
     }
   ]
 }
