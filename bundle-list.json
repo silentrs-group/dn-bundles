@@ -166,5 +166,21 @@
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-yandex-disc.png",
     "version": "1.0.0",
     "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/jphp-yandex-disc-1.0.0.dnbundle"
+  },
+  {
+    "name": "dn-dark-theme",
+    "description": "Добавляет темную тему для вашей студии",
+    "author": "silentrs",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/dn-dark-theme.png",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/dn-dark-theme-1.0.0.dnbundle"
+  },
+  {
+    "name": "dn-dnlog-ext",
+    "description": "Добавляет новый логгер в DN для дебага с возможностью использования фильтров",
+    "author": "silentrs",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/dn-dnlog-ext.png",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/dn-dnlog-ext-1.0.0.dnbundle"
   }
 ]
