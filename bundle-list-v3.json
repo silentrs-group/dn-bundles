@@ -168,6 +168,22 @@
       "image": "jphp-yandex-disc.png",
       "version": "1.0.0",
       "url": "bundles/jphp-yandex-disc-1.0.0.dnbundle"
+    },
+    {
+      "name": "dn-dark-theme",
+      "description": "Добавляет темную тему для вашей студии",
+      "author": "silentrs",
+      "image": "dn-dark-theme.png",
+      "version": "1.0.0",
+      "url": "bundles/dn-dark-theme-1.0.0.dnbundle"
+    },
+    {
+      "name": "dn-dnlog-ext",
+      "description": "Добавляет новый логгер в DN для дебага с возможностью исопльзования фильтров",
+      "author": "silentrs",
+      "image": "dn-dnlog-ext.png",
+      "version": "1.0.0",
+      "url": "bundles/dn-dnlog-ext-1.0.0.dnbundle"
     }
   ],
   "fonts": [
